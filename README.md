@@ -1,7 +1,10 @@
 python_project
 ==============
 
-code
+practice in python projects
 
 ## first project
-Text Checker
+
+dir     |   function
+----    |   -----------
+cherk   |   判断回文
