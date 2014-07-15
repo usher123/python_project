@@ -1,11 +1,14 @@
 
+
 def cherk():
     a=input('input a string:')
     c=[]
     b=''
+    d=''
     for int in range(len(a)):
         if a[int]!=' ':
             c.append(a[int])
+            d=d+a[int]
       
 
 
@@ -16,9 +19,11 @@ def cherk():
      
     print('this string is reverse num: ')
 
-    if a==b:
+    if d==b:
         print (1==1)
     else: 
         print (1!=1)
 
-    
+if __name__=="__main__":
+    cherk()
+
