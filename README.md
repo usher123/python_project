@@ -10,3 +10,4 @@ dir     |   function
 ----    |   -----------
 cherk   |   判断回文
 readfile| 查询合并相同属性对象
+copytxt | 查询播放器文件名
