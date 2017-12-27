@@ -1,0 +1,1 @@
+{'share': {'son': ['nice'], 'father': 'fuck', 'mother': 'shark'}, 'tom': {'mother': 'lili', 'father': 'lala', 'son': ['papa']}}
